@@ -1,0 +1,9 @@
+.feynman{
+    height: 890px;
+    position: relative;
+    /* overflow: hidden; */
+    /* box-sizing: border-box; */
+    margin-bottom: 0px;
+    background-color:  #f2f2f2;
+    z-index: 0;
+  }

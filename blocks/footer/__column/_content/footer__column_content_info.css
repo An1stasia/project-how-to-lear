@@ -1,0 +1,5 @@
+.footer__column_content_info{
+    /* border: 3px solid red; */
+    display: flex;
+    flex-direction: column;
+  }

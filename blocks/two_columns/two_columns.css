@@ -1,0 +1,10 @@
+.two_columns{
+    display: flex;
+    /* border: 3px solid red; */
+    flex-direction: row;
+    /* justify-content: center; */
+    justify-content: space-between;
+    /* align-items: center;  */
+    width: 80%;
+    margin: 100px auto 0px;
+  }
